@@ -10,6 +10,10 @@ The App works as follows:<br>
 2.show the area which is washed in real-time using animation.<br>
 3.record use information and offer instructions.<br>
 
+## Codes
+
+All codes are written and complied by Andriod Stduio. 
+
 
 
 
